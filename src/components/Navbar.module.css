@@ -1,0 +1,29 @@
+/* .navbar { */
+/*   position: fixed; */
+/*   top: 0; */
+/*   width: 100%; */
+/*   background: #333; */
+/*   z-index: 1000; */
+/* } */
+/**/
+/* .navList { */
+/*   list-style: none; */
+/*   padding: 0; */
+/*   margin: 0; */
+/*   display: flex; */
+/*   justify-content: center; */
+/* } */
+/**/
+/* .navItem { */
+/*   margin: 0 10px; */
+/* } */
+/**/
+/* .navItem a { */
+/*   text-decoration: none; */
+/*   color: white; */
+/*   padding: 10px; */
+/* } */
+/**/
+/* .navItem a:hover { */
+/*   color: #ccc; */
+/* } */
